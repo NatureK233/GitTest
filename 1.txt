@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-master
-=======
-master
-branch3
->>>>>>> branch3
+no ff merge
