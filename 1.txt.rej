@@ -1,0 +1,10 @@
+diff a/1.txt b/1.txt	(rejected hunks)
+@@ -1 +0,6 @@
+-master
+\ No newline at end of file
++<<<<<<< HEAD
++master
++=======
++master
++branch3
++>>>>>>> branch3
